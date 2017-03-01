@@ -67,11 +67,7 @@ video {
     transform: translateX(-50%) translateY(-50%);
     background-size: cover;
     overflow: hidden;
-    -webkit-filter: blur(7px);
-    -moz-filter: blur(7px);
-    -o-filter: blur(7px);
-    -ms-filter: blur(7px);
-    filter: blur(7px);
+
 svg{
   width: 1500px;
   height: 120px;
