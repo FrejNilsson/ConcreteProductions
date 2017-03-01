@@ -73,7 +73,7 @@ video {
     -ms-filter: blur(7px);
     filter: blur(7px);
 svg{
-  width: 600px;
+  width: 1500px;
   height: 120px;
   display: block;
   position: relative;
